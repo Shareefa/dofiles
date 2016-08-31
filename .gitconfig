@@ -1,0 +1,7 @@
+[user]
+	name = Abdullah Shareef
+	email = abdullah.shareef@gmail.com
+[core]
+	editor = vim
+[push]
+	default = simple
